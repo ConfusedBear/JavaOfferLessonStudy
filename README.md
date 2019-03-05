@@ -50,11 +50,11 @@ JavaEE基础 + 内部/内嵌类 + 访问权限修饰词 + APIs + OOPs + 线程 +
 
 > OSI的“实现”：TCP/IP
 
-![1551185637359](C:\Users\31711\Documents\assets\1551185637359.png)
+![1551185637359](https://github.com/ConfusedBear/JavaOfferLessonStudy/blob/master/images/1551185637359.png)
 
 > 先自上而下，后自下而上处理数据头部
 
-![1551185927311](C:\Users\31711\Documents\剑指java面试_offer直通车.assets\1551185927311.png)
+![1551185927311](https://github.com/ConfusedBear/JavaOfferLessonStudy/blob/master/images/1551185912360.png)
 
 ## 2 *TCP的三次握手
 
@@ -68,7 +68,7 @@ JavaEE基础 + 内部/内嵌类 + 访问权限修饰词 + APIs + OOPs + 线程 +
 
 ​	使用奇偶校验和函数来检验数据在传输过程中是否有误
 
-![1551186892501](C:\Users\31711\Documents\剑指java面试_offer直通车.assets\1551186892501.png)
+![1551186892501](https://github.com/ConfusedBear/JavaOfferLessonStudy/blob/master/images/1551186892501.png)
 
 
 
@@ -106,9 +106,9 @@ FIN：finish标志，用于释放连接	1：没有数据了，可关闭数据流
 
 ### 2.3 TCP三次握手的流程图
 
-![1551187873241](C:\Users\31711\Documents\剑指java面试_offer直通车.assets\1551187873241.png)
+![1551187873241](https://github.com/ConfusedBear/JavaOfferLessonStudy/blob/master/images/1551187873241.png)
 
-![1551189904033](C:\Users\31711\Documents\剑指java面试_offer直通车.assets\1551189904033.png)
+![1551189904033](https://github.com/ConfusedBear/JavaOfferLessonStudy/blob/master/images/1551189904033.png)
 
 ### 2.4 首次握手的隐患——SYN超时
 
