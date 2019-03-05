@@ -136,7 +136,7 @@ FIN：finish标志，用于释放连接	1：没有数据了，可关闭数据流
 
 ### 3.1 TCP四次挥手流程图
 
-![1551190645947](C:\Users\31711\Documents\剑指java面试_offer直通车.assets\1551190645947.png)
+![1551190645947](https://github.com/ConfusedBear/JavaOfferLessonStudy/blob/master/images/1551190645947.png)
 
 > MSL：最长报文段寿命
 >
