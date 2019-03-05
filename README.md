@@ -42,7 +42,7 @@ JavaEE基础 + 内部/内嵌类 + 访问权限修饰词 + APIs + OOPs + 线程 +
 
 #### 1.1.7应用层（HTTP协议）
 
-![OSI开放式互联参考模型](C:\Users\31711\Documents\assets\1551185520827.png)
+![OSI开放式互联参考模型](https://github.com/ConfusedBear/JavaOfferLessonStudy/blob/master/images/1551185520827.png)
 
 
 
