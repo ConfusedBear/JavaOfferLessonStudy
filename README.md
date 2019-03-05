@@ -1,5 +1,3 @@
-# JavaOfferLessonStudy
-剑指Java_Offer直通车学习笔记
 
 
 # 一、课程导读
@@ -281,6 +279,7 @@ FIN：finish标志，用于释放连接	1：没有数据了，可关闭数据流
 ![1551231531718](C:\Users\31711\Documents\剑指java面试_offer直通车.assets\1551231531718.png)
 
 > 最后一行空一行是必须的，用来告诉服务器已经请求完毕
+>
 
 ### 6.3 HTTP相应请求
 
@@ -1766,7 +1765,7 @@ FIN：finish标志，用于释放连接	1：没有数据了，可关闭数据流
 
 ## 3 JVM如何加载.class文件
 
-### 3.1 Java虚拟机
+###  3.1 Java虚拟机
 
 ![1551537581477](C:\Users\31711\Documents\剑指java面试_offer直通车.assets\1551537581477.png)
 
@@ -1870,7 +1869,7 @@ FIN：finish标志，用于释放连接	1：没有数据了，可关闭数据流
 
 
 
-## 7 LoadClass和ForName的区别
+##  7 LoadClass和ForName的区别
 
 ### 7.1 类的加载方式
 
